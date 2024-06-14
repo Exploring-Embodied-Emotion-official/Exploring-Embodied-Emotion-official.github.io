@@ -1,0 +1,3425 @@
+{
+    "nodes": [
+        {
+            "name": "Financial assistance",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Self-expression",
+            "category": 0,
+            "symbolSize": 5
+        },
+        {
+            "name": "Gender roles",
+            "category": 7,
+            "symbolSize": 6
+        },
+        {
+            "name": "Romantic tension",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Loneliness",
+            "category": 0,
+            "symbolSize": 5
+        },
+        {
+            "name": "scared",
+            "category": 5,
+            "symbolSize": 15.0
+        },
+        {
+            "name": "Love",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Compliment",
+            "category": 2,
+            "symbolSize": 5
+        },
+        {
+            "name": "Fashion or Clothing",
+            "category": 0,
+            "symbolSize": 6
+        },
+        {
+            "name": "Relationship dynamics",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Competition",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Cooperation",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Hygiene",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Betrayal",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Trust",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Longing",
+            "category": 0,
+            "symbolSize": 6
+        },
+        {
+            "name": "Miscommunication",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Laundry",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Identity crisis",
+            "category": 0,
+            "symbolSize": 5
+        },
+        {
+            "name": "Food and companionship",
+            "category": 0,
+            "symbolSize": 5
+        },
+        {
+            "name": "angry",
+            "category": 4,
+            "symbolSize": 23.2
+        },
+        {
+            "name": "Fatigue",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Negotiation",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Procrastination",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Hospitality",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Jealousy",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Bullying",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Gift-giving",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Photography",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Dancing",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "happy",
+            "category": 0,
+            "symbolSize": 23.2
+        },
+        {
+            "name": "Blackmail",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Gift giving",
+            "category": 4,
+            "symbolSize": 7
+        },
+        {
+            "name": "disgusted",
+            "category": 7,
+            "symbolSize": 10.6
+        },
+        {
+            "name": "Reconciliation",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Frustration",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Family relations",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Exploration",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Materialism",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Confusion",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Food preparation",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Socializing",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "surprised",
+            "category": 3,
+            "symbolSize": 23.2
+        },
+        {
+            "name": "Food appreciation",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Family reunion or gathering",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Independence",
+            "category": 4,
+            "symbolSize": 7
+        },
+        {
+            "name": "Sleepiness",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Financial independence",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Shopping",
+            "category": 4,
+            "symbolSize": 7
+        },
+        {
+            "name": "Family conflict",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "shy",
+            "category": 2,
+            "symbolSize": 13.0
+        },
+        {
+            "name": "Generosity",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Relationship issues",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Consumerism",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Cooking",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Romantic flirting",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Friendship",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Compliments",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Fatherhood",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Admiration",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Time management",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Fashion preferences",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Food enjoyment",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Excitement",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Playfulness",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Entertainment",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Identity confusion",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Peer pressure",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Gratitude",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Privacy",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Technical difficulties",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Relationships",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "sarcastic",
+            "category": 6,
+            "symbolSize": 17.2
+        },
+        {
+            "name": "Nostalgia",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Deception",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Mealtime",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Love and affection",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Proposal",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Humor",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Travel",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Encouragement",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Dating",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Gifts",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Work-life balance",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Family reunion",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Rejection",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Forgetfulness",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Food cravings",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Breakup",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Marriage proposal",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Reunion",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Cleaning",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Change",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Fashion",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Hunger",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Family dynamics",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "sad",
+            "category": 1,
+            "symbolSize": 13.0
+        },
+        {
+            "name": "Misunderstanding",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Conflict",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Freedom",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Exercise",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Flirting",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Self-improvement",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Urgency",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Food preferences",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Embarrassment",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Apology",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Cooking or Food Preparation",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Conflict or disagreement",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Infidelity",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Food",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Intoxication",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Conflict or confrontation",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Self-consciousness",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Family relationships",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Sibling rivalry",
+            "category": 5,
+            "symbolSize": 8
+        },
+        {
+            "name": "Food and cooking",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Financial difficulties",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Long-distance relationship",
+            "category": 4,
+            "symbolSize": 5
+        },
+        {
+            "name": "Escape",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Curiosity",
+            "category": 5,
+            "symbolSize": 5
+        },
+        {
+            "name": "Identity",
+            "category": 4,
+            "symbolSize": 6
+        },
+        {
+            "name": "Marriage",
+            "category": 5,
+            "symbolSize": 6
+        },
+        {
+            "name": "Parenting",
+            "category": 5,
+            "symbolSize": 7
+        },
+        {
+            "name": "Hydration",
+            "category": 4,
+            "symbolSize": 5
+        }
+    ],
+    "links": [
+        {
+            "source": "Financial assistance",
+            "target": "angry"
+        },
+        {
+            "source": "Financial assistance",
+            "target": "surprised"
+        },
+        {
+            "source": "Financial assistance",
+            "target": "scared"
+        },
+        {
+            "source": "Financial assistance",
+            "target": "shy"
+        },
+        {
+            "source": "Financial assistance",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Self-expression",
+            "target": "happy"
+        },
+        {
+            "source": "Self-expression",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Self-expression",
+            "target": "shy"
+        },
+        {
+            "source": "Self-expression",
+            "target": "surprised"
+        },
+        {
+            "source": "Self-expression",
+            "target": "scared"
+        },
+        {
+            "source": "Gender roles",
+            "target": "disgusted"
+        },
+        {
+            "source": "Gender roles",
+            "target": "angry"
+        },
+        {
+            "source": "Gender roles",
+            "target": "happy"
+        },
+        {
+            "source": "Gender roles",
+            "target": "surprised"
+        },
+        {
+            "source": "Gender roles",
+            "target": "scared"
+        },
+        {
+            "source": "Gender roles",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Romantic tension",
+            "target": "angry"
+        },
+        {
+            "source": "Romantic tension",
+            "target": "shy"
+        },
+        {
+            "source": "Romantic tension",
+            "target": "happy"
+        },
+        {
+            "source": "Romantic tension",
+            "target": "scared"
+        },
+        {
+            "source": "Romantic tension",
+            "target": "surprised"
+        },
+        {
+            "source": "Loneliness",
+            "target": "happy"
+        },
+        {
+            "source": "Loneliness",
+            "target": "surprised"
+        },
+        {
+            "source": "Loneliness",
+            "target": "angry"
+        },
+        {
+            "source": "Loneliness",
+            "target": "shy"
+        },
+        {
+            "source": "Loneliness",
+            "target": "sad"
+        },
+        {
+            "source": "scared",
+            "target": "Fatherhood"
+        },
+        {
+            "source": "scared",
+            "target": "Conflict or confrontation"
+        },
+        {
+            "source": "scared",
+            "target": "Gifts"
+        },
+        {
+            "source": "scared",
+            "target": "Rejection"
+        },
+        {
+            "source": "scared",
+            "target": "Hospitality"
+        },
+        {
+            "source": "scared",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "scared",
+            "target": "Marriage"
+        },
+        {
+            "source": "scared",
+            "target": "Jealousy"
+        },
+        {
+            "source": "scared",
+            "target": "Conflict"
+        },
+        {
+            "source": "scared",
+            "target": "Family relationships"
+        },
+        {
+            "source": "scared",
+            "target": "Laundry"
+        },
+        {
+            "source": "scared",
+            "target": "Love and affection"
+        },
+        {
+            "source": "scared",
+            "target": "Encouragement"
+        },
+        {
+            "source": "scared",
+            "target": "Socializing"
+        },
+        {
+            "source": "scared",
+            "target": "Reunion"
+        },
+        {
+            "source": "scared",
+            "target": "Friendship"
+        },
+        {
+            "source": "scared",
+            "target": "Food preferences"
+        },
+        {
+            "source": "scared",
+            "target": "Cleaning"
+        },
+        {
+            "source": "scared",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "scared",
+            "target": "Humor"
+        },
+        {
+            "source": "scared",
+            "target": "Fashion"
+        },
+        {
+            "source": "scared",
+            "target": "Competition"
+        },
+        {
+            "source": "scared",
+            "target": "Betrayal"
+        },
+        {
+            "source": "scared",
+            "target": "Apology"
+        },
+        {
+            "source": "scared",
+            "target": "Peer pressure"
+        },
+        {
+            "source": "scared",
+            "target": "Trust"
+        },
+        {
+            "source": "scared",
+            "target": "Love"
+        },
+        {
+            "source": "scared",
+            "target": "Parenting"
+        },
+        {
+            "source": "scared",
+            "target": "Deception"
+        },
+        {
+            "source": "scared",
+            "target": "Curiosity"
+        },
+        {
+            "source": "scared",
+            "target": "Family conflict"
+        },
+        {
+            "source": "scared",
+            "target": "Cooperation"
+        },
+        {
+            "source": "scared",
+            "target": "Cooking"
+        },
+        {
+            "source": "scared",
+            "target": "Generosity"
+        },
+        {
+            "source": "scared",
+            "target": "Miscommunication"
+        },
+        {
+            "source": "scared",
+            "target": "Confusion"
+        },
+        {
+            "source": "scared",
+            "target": "Fashion preferences"
+        },
+        {
+            "source": "scared",
+            "target": "Consumerism"
+        },
+        {
+            "source": "scared",
+            "target": "Work-life balance"
+        },
+        {
+            "source": "scared",
+            "target": "Frustration"
+        },
+        {
+            "source": "scared",
+            "target": "Escape"
+        },
+        {
+            "source": "scared",
+            "target": "Privacy"
+        },
+        {
+            "source": "scared",
+            "target": "Dancing"
+        },
+        {
+            "source": "scared",
+            "target": "Blackmail"
+        },
+        {
+            "source": "scared",
+            "target": "Reconciliation"
+        },
+        {
+            "source": "scared",
+            "target": "Identity confusion"
+        },
+        {
+            "source": "scared",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "scared",
+            "target": "Family reunion"
+        },
+        {
+            "source": "scared",
+            "target": "Family relations"
+        },
+        {
+            "source": "scared",
+            "target": "Fatigue"
+        },
+        {
+            "source": "scared",
+            "target": "Relationships"
+        },
+        {
+            "source": "scared",
+            "target": "Photography"
+        },
+        {
+            "source": "scared",
+            "target": "Gift-giving"
+        },
+        {
+            "source": "scared",
+            "target": "Food enjoyment"
+        },
+        {
+            "source": "scared",
+            "target": "Gratitude"
+        },
+        {
+            "source": "scared",
+            "target": "Negotiation"
+        },
+        {
+            "source": "scared",
+            "target": "Freedom"
+        },
+        {
+            "source": "scared",
+            "target": "Excitement"
+        },
+        {
+            "source": "scared",
+            "target": "Procrastination"
+        },
+        {
+            "source": "scared",
+            "target": "Compliments"
+        },
+        {
+            "source": "scared",
+            "target": "Conflict or disagreement"
+        },
+        {
+            "source": "scared",
+            "target": "Relationship dynamics"
+        },
+        {
+            "source": "scared",
+            "target": "Relationship issues"
+        },
+        {
+            "source": "scared",
+            "target": "Technical difficulties"
+        },
+        {
+            "source": "scared",
+            "target": "Family reunion or gathering"
+        },
+        {
+            "source": "scared",
+            "target": "Financial difficulties"
+        },
+        {
+            "source": "scared",
+            "target": "Urgency"
+        },
+        {
+            "source": "scared",
+            "target": "Breakup"
+        },
+        {
+            "source": "scared",
+            "target": "Hygiene"
+        },
+        {
+            "source": "scared",
+            "target": "Dating"
+        },
+        {
+            "source": "scared",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "Love",
+            "target": "happy"
+        },
+        {
+            "source": "Love",
+            "target": "shy"
+        },
+        {
+            "source": "Love",
+            "target": "surprised"
+        },
+        {
+            "source": "Love",
+            "target": "angry"
+        },
+        {
+            "source": "Love",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Love",
+            "target": "sad"
+        },
+        {
+            "source": "Love",
+            "target": "disgusted"
+        },
+        {
+            "source": "Compliment",
+            "target": "shy"
+        },
+        {
+            "source": "Compliment",
+            "target": "surprised"
+        },
+        {
+            "source": "Compliment",
+            "target": "happy"
+        },
+        {
+            "source": "Compliment",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Compliment",
+            "target": "angry"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "happy"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "sad"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "surprised"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "angry"
+        },
+        {
+            "source": "Fashion or Clothing",
+            "target": "shy"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "happy"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "surprised"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "angry"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "disgusted"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Relationship dynamics",
+            "target": "sad"
+        },
+        {
+            "source": "Competition",
+            "target": "happy"
+        },
+        {
+            "source": "Competition",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Competition",
+            "target": "surprised"
+        },
+        {
+            "source": "Competition",
+            "target": "angry"
+        },
+        {
+            "source": "Competition",
+            "target": "shy"
+        },
+        {
+            "source": "Cooperation",
+            "target": "surprised"
+        },
+        {
+            "source": "Cooperation",
+            "target": "angry"
+        },
+        {
+            "source": "Cooperation",
+            "target": "happy"
+        },
+        {
+            "source": "Cooperation",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Hygiene",
+            "target": "happy"
+        },
+        {
+            "source": "Hygiene",
+            "target": "angry"
+        },
+        {
+            "source": "Hygiene",
+            "target": "surprised"
+        },
+        {
+            "source": "Hygiene",
+            "target": "disgusted"
+        },
+        {
+            "source": "Hygiene",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Hygiene",
+            "target": "sad"
+        },
+        {
+            "source": "Betrayal",
+            "target": "happy"
+        },
+        {
+            "source": "Betrayal",
+            "target": "sad"
+        },
+        {
+            "source": "Betrayal",
+            "target": "surprised"
+        },
+        {
+            "source": "Betrayal",
+            "target": "angry"
+        },
+        {
+            "source": "Betrayal",
+            "target": "shy"
+        },
+        {
+            "source": "Betrayal",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Betrayal",
+            "target": "disgusted"
+        },
+        {
+            "source": "Trust",
+            "target": "happy"
+        },
+        {
+            "source": "Trust",
+            "target": "angry"
+        },
+        {
+            "source": "Trust",
+            "target": "surprised"
+        },
+        {
+            "source": "Trust",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Trust",
+            "target": "sad"
+        },
+        {
+            "source": "Longing",
+            "target": "happy"
+        },
+        {
+            "source": "Longing",
+            "target": "surprised"
+        },
+        {
+            "source": "Longing",
+            "target": "angry"
+        },
+        {
+            "source": "Longing",
+            "target": "disgusted"
+        },
+        {
+            "source": "Longing",
+            "target": "shy"
+        },
+        {
+            "source": "Longing",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "happy"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "surprised"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "angry"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "shy"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "sad"
+        },
+        {
+            "source": "Miscommunication",
+            "target": "disgusted"
+        },
+        {
+            "source": "Laundry",
+            "target": "surprised"
+        },
+        {
+            "source": "Laundry",
+            "target": "disgusted"
+        },
+        {
+            "source": "Laundry",
+            "target": "happy"
+        },
+        {
+            "source": "Laundry",
+            "target": "angry"
+        },
+        {
+            "source": "Laundry",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Identity crisis",
+            "target": "happy"
+        },
+        {
+            "source": "Identity crisis",
+            "target": "disgusted"
+        },
+        {
+            "source": "Identity crisis",
+            "target": "angry"
+        },
+        {
+            "source": "Identity crisis",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Identity crisis",
+            "target": "surprised"
+        },
+        {
+            "source": "Food and companionship",
+            "target": "happy"
+        },
+        {
+            "source": "Food and companionship",
+            "target": "disgusted"
+        },
+        {
+            "source": "Food and companionship",
+            "target": "angry"
+        },
+        {
+            "source": "Food and companionship",
+            "target": "surprised"
+        },
+        {
+            "source": "Food and companionship",
+            "target": "sarcastic"
+        },
+        {
+            "source": "angry",
+            "target": "Jealousy"
+        },
+        {
+            "source": "angry",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "angry",
+            "target": "Identity"
+        },
+        {
+            "source": "angry",
+            "target": "Conflict"
+        },
+        {
+            "source": "angry",
+            "target": "Marriage"
+        },
+        {
+            "source": "angry",
+            "target": "Cooking"
+        },
+        {
+            "source": "angry",
+            "target": "Food cravings"
+        },
+        {
+            "source": "angry",
+            "target": "Gift giving"
+        },
+        {
+            "source": "angry",
+            "target": "Playfulness"
+        },
+        {
+            "source": "angry",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "angry",
+            "target": "Gifts"
+        },
+        {
+            "source": "angry",
+            "target": "Relationship issues"
+        },
+        {
+            "source": "angry",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "angry",
+            "target": "Relationships"
+        },
+        {
+            "source": "angry",
+            "target": "Parenting"
+        },
+        {
+            "source": "angry",
+            "target": "Food"
+        },
+        {
+            "source": "angry",
+            "target": "Food preferences"
+        },
+        {
+            "source": "angry",
+            "target": "Reunion"
+        },
+        {
+            "source": "angry",
+            "target": "Privacy"
+        },
+        {
+            "source": "angry",
+            "target": "Marriage proposal"
+        },
+        {
+            "source": "angry",
+            "target": "Family relations"
+        },
+        {
+            "source": "angry",
+            "target": "Hospitality"
+        },
+        {
+            "source": "angry",
+            "target": "Shopping"
+        },
+        {
+            "source": "angry",
+            "target": "Family relationships"
+        },
+        {
+            "source": "angry",
+            "target": "Self-improvement"
+        },
+        {
+            "source": "angry",
+            "target": "Technical difficulties"
+        },
+        {
+            "source": "angry",
+            "target": "Curiosity"
+        },
+        {
+            "source": "angry",
+            "target": "Identity confusion"
+        },
+        {
+            "source": "angry",
+            "target": "Procrastination"
+        },
+        {
+            "source": "angry",
+            "target": "Family reunion"
+        },
+        {
+            "source": "angry",
+            "target": "Photography"
+        },
+        {
+            "source": "angry",
+            "target": "Entertainment"
+        },
+        {
+            "source": "angry",
+            "target": "Rejection"
+        },
+        {
+            "source": "angry",
+            "target": "Financial independence"
+        },
+        {
+            "source": "angry",
+            "target": "Exercise"
+        },
+        {
+            "source": "angry",
+            "target": "Flirting"
+        },
+        {
+            "source": "angry",
+            "target": "Encouragement"
+        },
+        {
+            "source": "angry",
+            "target": "Materialism"
+        },
+        {
+            "source": "angry",
+            "target": "Blackmail"
+        },
+        {
+            "source": "angry",
+            "target": "Breakup"
+        },
+        {
+            "source": "angry",
+            "target": "Reconciliation"
+        },
+        {
+            "source": "angry",
+            "target": "Urgency"
+        },
+        {
+            "source": "angry",
+            "target": "Conflict or disagreement"
+        },
+        {
+            "source": "angry",
+            "target": "Exploration"
+        },
+        {
+            "source": "angry",
+            "target": "Family conflict"
+        },
+        {
+            "source": "angry",
+            "target": "Socializing"
+        },
+        {
+            "source": "angry",
+            "target": "Hydration"
+        },
+        {
+            "source": "angry",
+            "target": "Time management"
+        },
+        {
+            "source": "angry",
+            "target": "Cleaning"
+        },
+        {
+            "source": "angry",
+            "target": "Bullying"
+        },
+        {
+            "source": "angry",
+            "target": "Independence"
+        },
+        {
+            "source": "angry",
+            "target": "Escape"
+        },
+        {
+            "source": "angry",
+            "target": "Generosity"
+        },
+        {
+            "source": "angry",
+            "target": "Fashion"
+        },
+        {
+            "source": "angry",
+            "target": "Confusion"
+        },
+        {
+            "source": "angry",
+            "target": "Intoxication"
+        },
+        {
+            "source": "angry",
+            "target": "Friendship"
+        },
+        {
+            "source": "angry",
+            "target": "Compliments"
+        },
+        {
+            "source": "angry",
+            "target": "Deception"
+        },
+        {
+            "source": "angry",
+            "target": "Sleepiness"
+        },
+        {
+            "source": "angry",
+            "target": "Financial difficulties"
+        },
+        {
+            "source": "angry",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "angry",
+            "target": "Humor"
+        },
+        {
+            "source": "angry",
+            "target": "Cooking or Food Preparation"
+        },
+        {
+            "source": "angry",
+            "target": "Food enjoyment"
+        },
+        {
+            "source": "angry",
+            "target": "Apology"
+        },
+        {
+            "source": "angry",
+            "target": "Forgetfulness"
+        },
+        {
+            "source": "angry",
+            "target": "Fatherhood"
+        },
+        {
+            "source": "angry",
+            "target": "Travel"
+        },
+        {
+            "source": "angry",
+            "target": "Conflict or confrontation"
+        },
+        {
+            "source": "angry",
+            "target": "Change"
+        },
+        {
+            "source": "angry",
+            "target": "Proposal"
+        },
+        {
+            "source": "angry",
+            "target": "Peer pressure"
+        },
+        {
+            "source": "angry",
+            "target": "Food preparation"
+        },
+        {
+            "source": "angry",
+            "target": "Gratitude"
+        },
+        {
+            "source": "angry",
+            "target": "Self-consciousness"
+        },
+        {
+            "source": "angry",
+            "target": "Freedom"
+        },
+        {
+            "source": "angry",
+            "target": "Food appreciation"
+        },
+        {
+            "source": "angry",
+            "target": "Consumerism"
+        },
+        {
+            "source": "angry",
+            "target": "Work-life balance"
+        },
+        {
+            "source": "angry",
+            "target": "Romantic flirting"
+        },
+        {
+            "source": "angry",
+            "target": "Hunger"
+        },
+        {
+            "source": "angry",
+            "target": "Admiration"
+        },
+        {
+            "source": "angry",
+            "target": "Food and cooking"
+        },
+        {
+            "source": "angry",
+            "target": "Mealtime"
+        },
+        {
+            "source": "angry",
+            "target": "Frustration"
+        },
+        {
+            "source": "angry",
+            "target": "Dating"
+        },
+        {
+            "source": "angry",
+            "target": "Dancing"
+        },
+        {
+            "source": "angry",
+            "target": "Infidelity"
+        },
+        {
+            "source": "angry",
+            "target": "Long-distance relationship"
+        },
+        {
+            "source": "angry",
+            "target": "Excitement"
+        },
+        {
+            "source": "angry",
+            "target": "Gift-giving"
+        },
+        {
+            "source": "angry",
+            "target": "Fatigue"
+        },
+        {
+            "source": "angry",
+            "target": "Family reunion or gathering"
+        },
+        {
+            "source": "angry",
+            "target": "Fashion preferences"
+        },
+        {
+            "source": "angry",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "angry",
+            "target": "Negotiation"
+        },
+        {
+            "source": "angry",
+            "target": "Love and affection"
+        },
+        {
+            "source": "Fatigue",
+            "target": "happy"
+        },
+        {
+            "source": "Fatigue",
+            "target": "shy"
+        },
+        {
+            "source": "Fatigue",
+            "target": "surprised"
+        },
+        {
+            "source": "Fatigue",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Negotiation",
+            "target": "happy"
+        },
+        {
+            "source": "Negotiation",
+            "target": "surprised"
+        },
+        {
+            "source": "Negotiation",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Procrastination",
+            "target": "surprised"
+        },
+        {
+            "source": "Procrastination",
+            "target": "happy"
+        },
+        {
+            "source": "Procrastination",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Hospitality",
+            "target": "happy"
+        },
+        {
+            "source": "Hospitality",
+            "target": "surprised"
+        },
+        {
+            "source": "Hospitality",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Hospitality",
+            "target": "shy"
+        },
+        {
+            "source": "Hospitality",
+            "target": "disgusted"
+        },
+        {
+            "source": "Hospitality",
+            "target": "sad"
+        },
+        {
+            "source": "Jealousy",
+            "target": "happy"
+        },
+        {
+            "source": "Jealousy",
+            "target": "surprised"
+        },
+        {
+            "source": "Jealousy",
+            "target": "sad"
+        },
+        {
+            "source": "Jealousy",
+            "target": "shy"
+        },
+        {
+            "source": "Jealousy",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Jealousy",
+            "target": "disgusted"
+        },
+        {
+            "source": "Bullying",
+            "target": "happy"
+        },
+        {
+            "source": "Bullying",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Bullying",
+            "target": "sad"
+        },
+        {
+            "source": "Bullying",
+            "target": "surprised"
+        },
+        {
+            "source": "Gift-giving",
+            "target": "happy"
+        },
+        {
+            "source": "Gift-giving",
+            "target": "surprised"
+        },
+        {
+            "source": "Gift-giving",
+            "target": "shy"
+        },
+        {
+            "source": "Gift-giving",
+            "target": "sad"
+        },
+        {
+            "source": "Photography",
+            "target": "happy"
+        },
+        {
+            "source": "Photography",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Photography",
+            "target": "surprised"
+        },
+        {
+            "source": "Photography",
+            "target": "sad"
+        },
+        {
+            "source": "Dancing",
+            "target": "happy"
+        },
+        {
+            "source": "Dancing",
+            "target": "surprised"
+        },
+        {
+            "source": "Dancing",
+            "target": "sad"
+        },
+        {
+            "source": "happy",
+            "target": "Marriage"
+        },
+        {
+            "source": "happy",
+            "target": "Fashion"
+        },
+        {
+            "source": "happy",
+            "target": "Relationships"
+        },
+        {
+            "source": "happy",
+            "target": "Fashion preferences"
+        },
+        {
+            "source": "happy",
+            "target": "Forgetfulness"
+        },
+        {
+            "source": "happy",
+            "target": "Playfulness"
+        },
+        {
+            "source": "happy",
+            "target": "Flirting"
+        },
+        {
+            "source": "happy",
+            "target": "Generosity"
+        },
+        {
+            "source": "happy",
+            "target": "Travel"
+        },
+        {
+            "source": "happy",
+            "target": "Gratitude"
+        },
+        {
+            "source": "happy",
+            "target": "Gift giving"
+        },
+        {
+            "source": "happy",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "happy",
+            "target": "Consumerism"
+        },
+        {
+            "source": "happy",
+            "target": "Freedom"
+        },
+        {
+            "source": "happy",
+            "target": "Dating"
+        },
+        {
+            "source": "happy",
+            "target": "Gifts"
+        },
+        {
+            "source": "happy",
+            "target": "Conflict"
+        },
+        {
+            "source": "happy",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "happy",
+            "target": "Parenting"
+        },
+        {
+            "source": "happy",
+            "target": "Food preferences"
+        },
+        {
+            "source": "happy",
+            "target": "Identity"
+        },
+        {
+            "source": "happy",
+            "target": "Rejection"
+        },
+        {
+            "source": "happy",
+            "target": "Reunion"
+        },
+        {
+            "source": "happy",
+            "target": "Encouragement"
+        },
+        {
+            "source": "happy",
+            "target": "Compliments"
+        },
+        {
+            "source": "happy",
+            "target": "Food"
+        },
+        {
+            "source": "happy",
+            "target": "Reconciliation"
+        },
+        {
+            "source": "happy",
+            "target": "Food enjoyment"
+        },
+        {
+            "source": "happy",
+            "target": "Cooking"
+        },
+        {
+            "source": "happy",
+            "target": "Socializing"
+        },
+        {
+            "source": "happy",
+            "target": "Long-distance relationship"
+        },
+        {
+            "source": "happy",
+            "target": "Humor"
+        },
+        {
+            "source": "happy",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "happy",
+            "target": "Friendship"
+        },
+        {
+            "source": "happy",
+            "target": "Food appreciation"
+        },
+        {
+            "source": "happy",
+            "target": "Financial difficulties"
+        },
+        {
+            "source": "happy",
+            "target": "Food cravings"
+        },
+        {
+            "source": "happy",
+            "target": "Urgency"
+        },
+        {
+            "source": "happy",
+            "target": "Cooking or Food Preparation"
+        },
+        {
+            "source": "happy",
+            "target": "Shopping"
+        },
+        {
+            "source": "happy",
+            "target": "Curiosity"
+        },
+        {
+            "source": "happy",
+            "target": "Apology"
+        },
+        {
+            "source": "happy",
+            "target": "Escape"
+        },
+        {
+            "source": "happy",
+            "target": "Entertainment"
+        },
+        {
+            "source": "happy",
+            "target": "Hunger"
+        },
+        {
+            "source": "happy",
+            "target": "Food preparation"
+        },
+        {
+            "source": "happy",
+            "target": "Marriage proposal"
+        },
+        {
+            "source": "happy",
+            "target": "Relationship issues"
+        },
+        {
+            "source": "happy",
+            "target": "Peer pressure"
+        },
+        {
+            "source": "happy",
+            "target": "Deception"
+        },
+        {
+            "source": "happy",
+            "target": "Independence"
+        },
+        {
+            "source": "happy",
+            "target": "Materialism"
+        },
+        {
+            "source": "happy",
+            "target": "Exploration"
+        },
+        {
+            "source": "happy",
+            "target": "Identity confusion"
+        },
+        {
+            "source": "happy",
+            "target": "Self-improvement"
+        },
+        {
+            "source": "happy",
+            "target": "Confusion"
+        },
+        {
+            "source": "happy",
+            "target": "Excitement"
+        },
+        {
+            "source": "happy",
+            "target": "Family relationships"
+        },
+        {
+            "source": "happy",
+            "target": "Privacy"
+        },
+        {
+            "source": "happy",
+            "target": "Exercise"
+        },
+        {
+            "source": "happy",
+            "target": "Work-life balance"
+        },
+        {
+            "source": "happy",
+            "target": "Family reunion"
+        },
+        {
+            "source": "happy",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "happy",
+            "target": "Family relations"
+        },
+        {
+            "source": "happy",
+            "target": "Family conflict"
+        },
+        {
+            "source": "happy",
+            "target": "Hydration"
+        },
+        {
+            "source": "happy",
+            "target": "Cleaning"
+        },
+        {
+            "source": "happy",
+            "target": "Sleepiness"
+        },
+        {
+            "source": "happy",
+            "target": "Frustration"
+        },
+        {
+            "source": "happy",
+            "target": "Love and affection"
+        },
+        {
+            "source": "happy",
+            "target": "Self-consciousness"
+        },
+        {
+            "source": "happy",
+            "target": "Family reunion or gathering"
+        },
+        {
+            "source": "happy",
+            "target": "Fatherhood"
+        },
+        {
+            "source": "happy",
+            "target": "Time management"
+        },
+        {
+            "source": "happy",
+            "target": "Financial independence"
+        },
+        {
+            "source": "happy",
+            "target": "Breakup"
+        },
+        {
+            "source": "happy",
+            "target": "Conflict or disagreement"
+        },
+        {
+            "source": "happy",
+            "target": "Conflict or confrontation"
+        },
+        {
+            "source": "happy",
+            "target": "Technical difficulties"
+        },
+        {
+            "source": "happy",
+            "target": "Blackmail"
+        },
+        {
+            "source": "happy",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "happy",
+            "target": "Intoxication"
+        },
+        {
+            "source": "happy",
+            "target": "Romantic flirting"
+        },
+        {
+            "source": "happy",
+            "target": "Food and cooking"
+        },
+        {
+            "source": "happy",
+            "target": "Admiration"
+        },
+        {
+            "source": "happy",
+            "target": "Mealtime"
+        },
+        {
+            "source": "happy",
+            "target": "Change"
+        },
+        {
+            "source": "happy",
+            "target": "Infidelity"
+        },
+        {
+            "source": "happy",
+            "target": "Proposal"
+        },
+        {
+            "source": "Blackmail",
+            "target": "surprised"
+        },
+        {
+            "source": "Blackmail",
+            "target": "sad"
+        },
+        {
+            "source": "Gift giving",
+            "target": "surprised"
+        },
+        {
+            "source": "Gift giving",
+            "target": "disgusted"
+        },
+        {
+            "source": "Gift giving",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Gift giving",
+            "target": "shy"
+        },
+        {
+            "source": "Gift giving",
+            "target": "sad"
+        },
+        {
+            "source": "disgusted",
+            "target": "Cooking or Food Preparation"
+        },
+        {
+            "source": "disgusted",
+            "target": "Humor"
+        },
+        {
+            "source": "disgusted",
+            "target": "Cooking"
+        },
+        {
+            "source": "disgusted",
+            "target": "Playfulness"
+        },
+        {
+            "source": "disgusted",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "disgusted",
+            "target": "Self-improvement"
+        },
+        {
+            "source": "disgusted",
+            "target": "Food preferences"
+        },
+        {
+            "source": "disgusted",
+            "target": "Mealtime"
+        },
+        {
+            "source": "disgusted",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "disgusted",
+            "target": "Conflict"
+        },
+        {
+            "source": "disgusted",
+            "target": "Shopping"
+        },
+        {
+            "source": "disgusted",
+            "target": "Time management"
+        },
+        {
+            "source": "disgusted",
+            "target": "Food cravings"
+        },
+        {
+            "source": "disgusted",
+            "target": "Financial independence"
+        },
+        {
+            "source": "disgusted",
+            "target": "Parenting"
+        },
+        {
+            "source": "disgusted",
+            "target": "Intoxication"
+        },
+        {
+            "source": "disgusted",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "disgusted",
+            "target": "Food preparation"
+        },
+        {
+            "source": "disgusted",
+            "target": "Fashion"
+        },
+        {
+            "source": "disgusted",
+            "target": "Peer pressure"
+        },
+        {
+            "source": "disgusted",
+            "target": "Romantic flirting"
+        },
+        {
+            "source": "disgusted",
+            "target": "Flirting"
+        },
+        {
+            "source": "disgusted",
+            "target": "Encouragement"
+        },
+        {
+            "source": "disgusted",
+            "target": "Family relations"
+        },
+        {
+            "source": "disgusted",
+            "target": "Proposal"
+        },
+        {
+            "source": "disgusted",
+            "target": "Friendship"
+        },
+        {
+            "source": "disgusted",
+            "target": "Love and affection"
+        },
+        {
+            "source": "disgusted",
+            "target": "Confusion"
+        },
+        {
+            "source": "disgusted",
+            "target": "Apology"
+        },
+        {
+            "source": "disgusted",
+            "target": "Food enjoyment"
+        },
+        {
+            "source": "disgusted",
+            "target": "Family reunion"
+        },
+        {
+            "source": "disgusted",
+            "target": "Urgency"
+        },
+        {
+            "source": "disgusted",
+            "target": "Excitement"
+        },
+        {
+            "source": "disgusted",
+            "target": "Hydration"
+        },
+        {
+            "source": "disgusted",
+            "target": "Entertainment"
+        },
+        {
+            "source": "disgusted",
+            "target": "Breakup"
+        },
+        {
+            "source": "disgusted",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "disgusted",
+            "target": "Conflict or disagreement"
+        },
+        {
+            "source": "disgusted",
+            "target": "Independence"
+        },
+        {
+            "source": "disgusted",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "Reconciliation",
+            "target": "sad"
+        },
+        {
+            "source": "Reconciliation",
+            "target": "shy"
+        },
+        {
+            "source": "Reconciliation",
+            "target": "surprised"
+        },
+        {
+            "source": "Reconciliation",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Frustration",
+            "target": "surprised"
+        },
+        {
+            "source": "Frustration",
+            "target": "sad"
+        },
+        {
+            "source": "Family relations",
+            "target": "surprised"
+        },
+        {
+            "source": "Family relations",
+            "target": "sad"
+        },
+        {
+            "source": "Family relations",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Exploration",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Exploration",
+            "target": "shy"
+        },
+        {
+            "source": "Exploration",
+            "target": "surprised"
+        },
+        {
+            "source": "Materialism",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Materialism",
+            "target": "surprised"
+        },
+        {
+            "source": "Materialism",
+            "target": "sad"
+        },
+        {
+            "source": "Confusion",
+            "target": "shy"
+        },
+        {
+            "source": "Confusion",
+            "target": "surprised"
+        },
+        {
+            "source": "Confusion",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Food preparation",
+            "target": "shy"
+        },
+        {
+            "source": "Food preparation",
+            "target": "surprised"
+        },
+        {
+            "source": "Socializing",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Socializing",
+            "target": "surprised"
+        },
+        {
+            "source": "surprised",
+            "target": "Long-distance relationship"
+        },
+        {
+            "source": "surprised",
+            "target": "Privacy"
+        },
+        {
+            "source": "surprised",
+            "target": "Fashion"
+        },
+        {
+            "source": "surprised",
+            "target": "Exercise"
+        },
+        {
+            "source": "surprised",
+            "target": "Conflict"
+        },
+        {
+            "source": "surprised",
+            "target": "Reunion"
+        },
+        {
+            "source": "surprised",
+            "target": "Admiration"
+        },
+        {
+            "source": "surprised",
+            "target": "Entertainment"
+        },
+        {
+            "source": "surprised",
+            "target": "Independence"
+        },
+        {
+            "source": "surprised",
+            "target": "Generosity"
+        },
+        {
+            "source": "surprised",
+            "target": "Gifts"
+        },
+        {
+            "source": "surprised",
+            "target": "Relationship issues"
+        },
+        {
+            "source": "surprised",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "surprised",
+            "target": "Cooking"
+        },
+        {
+            "source": "surprised",
+            "target": "Consumerism"
+        },
+        {
+            "source": "surprised",
+            "target": "Identity"
+        },
+        {
+            "source": "surprised",
+            "target": "Financial difficulties"
+        },
+        {
+            "source": "surprised",
+            "target": "Apology"
+        },
+        {
+            "source": "surprised",
+            "target": "Rejection"
+        },
+        {
+            "source": "surprised",
+            "target": "Food"
+        },
+        {
+            "source": "surprised",
+            "target": "Food preferences"
+        },
+        {
+            "source": "surprised",
+            "target": "Humor"
+        },
+        {
+            "source": "surprised",
+            "target": "Technical difficulties"
+        },
+        {
+            "source": "surprised",
+            "target": "Excitement"
+        },
+        {
+            "source": "surprised",
+            "target": "Travel"
+        },
+        {
+            "source": "surprised",
+            "target": "Family relationships"
+        },
+        {
+            "source": "surprised",
+            "target": "Playfulness"
+        },
+        {
+            "source": "surprised",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "surprised",
+            "target": "Forgetfulness"
+        },
+        {
+            "source": "surprised",
+            "target": "Friendship"
+        },
+        {
+            "source": "surprised",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "surprised",
+            "target": "Work-life balance"
+        },
+        {
+            "source": "surprised",
+            "target": "Encouragement"
+        },
+        {
+            "source": "surprised",
+            "target": "Food enjoyment"
+        },
+        {
+            "source": "surprised",
+            "target": "Cleaning"
+        },
+        {
+            "source": "surprised",
+            "target": "Food appreciation"
+        },
+        {
+            "source": "surprised",
+            "target": "Hunger"
+        },
+        {
+            "source": "surprised",
+            "target": "Marriage proposal"
+        },
+        {
+            "source": "surprised",
+            "target": "Marriage"
+        },
+        {
+            "source": "surprised",
+            "target": "Fashion preferences"
+        },
+        {
+            "source": "surprised",
+            "target": "Breakup"
+        },
+        {
+            "source": "surprised",
+            "target": "Self-improvement"
+        },
+        {
+            "source": "surprised",
+            "target": "Relationships"
+        },
+        {
+            "source": "surprised",
+            "target": "Family reunion"
+        },
+        {
+            "source": "surprised",
+            "target": "Urgency"
+        },
+        {
+            "source": "surprised",
+            "target": "Shopping"
+        },
+        {
+            "source": "surprised",
+            "target": "Gratitude"
+        },
+        {
+            "source": "surprised",
+            "target": "Food cravings"
+        },
+        {
+            "source": "surprised",
+            "target": "Financial independence"
+        },
+        {
+            "source": "surprised",
+            "target": "Family reunion or gathering"
+        },
+        {
+            "source": "surprised",
+            "target": "Identity confusion"
+        },
+        {
+            "source": "surprised",
+            "target": "Sleepiness"
+        },
+        {
+            "source": "surprised",
+            "target": "Deception"
+        },
+        {
+            "source": "surprised",
+            "target": "Parenting"
+        },
+        {
+            "source": "surprised",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "surprised",
+            "target": "Self-consciousness"
+        },
+        {
+            "source": "surprised",
+            "target": "Curiosity"
+        },
+        {
+            "source": "surprised",
+            "target": "Conflict or confrontation"
+        },
+        {
+            "source": "surprised",
+            "target": "Hydration"
+        },
+        {
+            "source": "surprised",
+            "target": "Cooking or Food Preparation"
+        },
+        {
+            "source": "surprised",
+            "target": "Food and cooking"
+        },
+        {
+            "source": "surprised",
+            "target": "Time management"
+        },
+        {
+            "source": "surprised",
+            "target": "Compliments"
+        },
+        {
+            "source": "surprised",
+            "target": "Fatherhood"
+        },
+        {
+            "source": "surprised",
+            "target": "Escape"
+        },
+        {
+            "source": "surprised",
+            "target": "Family conflict"
+        },
+        {
+            "source": "surprised",
+            "target": "Conflict or disagreement"
+        },
+        {
+            "source": "surprised",
+            "target": "Infidelity"
+        },
+        {
+            "source": "surprised",
+            "target": "Romantic flirting"
+        },
+        {
+            "source": "surprised",
+            "target": "Flirting"
+        },
+        {
+            "source": "surprised",
+            "target": "Change"
+        },
+        {
+            "source": "surprised",
+            "target": "Peer pressure"
+        },
+        {
+            "source": "surprised",
+            "target": "Mealtime"
+        },
+        {
+            "source": "surprised",
+            "target": "Freedom"
+        },
+        {
+            "source": "surprised",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "surprised",
+            "target": "Dating"
+        },
+        {
+            "source": "surprised",
+            "target": "Intoxication"
+        },
+        {
+            "source": "surprised",
+            "target": "Proposal"
+        },
+        {
+            "source": "Food appreciation",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Food appreciation",
+            "target": "shy"
+        },
+        {
+            "source": "Family reunion or gathering",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Independence",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Independence",
+            "target": "shy"
+        },
+        {
+            "source": "Independence",
+            "target": "sad"
+        },
+        {
+            "source": "Sleepiness",
+            "target": "sad"
+        },
+        {
+            "source": "Sleepiness",
+            "target": "shy"
+        },
+        {
+            "source": "Sleepiness",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Financial independence",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Shopping",
+            "target": "shy"
+        },
+        {
+            "source": "Shopping",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Shopping",
+            "target": "sad"
+        },
+        {
+            "source": "Family conflict",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Family conflict",
+            "target": "sad"
+        },
+        {
+            "source": "shy",
+            "target": "Marriage"
+        },
+        {
+            "source": "shy",
+            "target": "Long-distance relationship"
+        },
+        {
+            "source": "shy",
+            "target": "Encouragement"
+        },
+        {
+            "source": "shy",
+            "target": "Relationships"
+        },
+        {
+            "source": "shy",
+            "target": "Flirting"
+        },
+        {
+            "source": "shy",
+            "target": "Fashion"
+        },
+        {
+            "source": "shy",
+            "target": "Freedom"
+        },
+        {
+            "source": "shy",
+            "target": "Conflict"
+        },
+        {
+            "source": "shy",
+            "target": "Dating"
+        },
+        {
+            "source": "shy",
+            "target": "Love and affection"
+        },
+        {
+            "source": "shy",
+            "target": "Playfulness"
+        },
+        {
+            "source": "shy",
+            "target": "Urgency"
+        },
+        {
+            "source": "shy",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "shy",
+            "target": "Gifts"
+        },
+        {
+            "source": "shy",
+            "target": "Food cravings"
+        },
+        {
+            "source": "shy",
+            "target": "Hunger"
+        },
+        {
+            "source": "shy",
+            "target": "Apology"
+        },
+        {
+            "source": "shy",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "shy",
+            "target": "Friendship"
+        },
+        {
+            "source": "shy",
+            "target": "Compliments"
+        },
+        {
+            "source": "shy",
+            "target": "Fashion preferences"
+        },
+        {
+            "source": "shy",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "shy",
+            "target": "Travel"
+        },
+        {
+            "source": "shy",
+            "target": "Identity"
+        },
+        {
+            "source": "shy",
+            "target": "Family relationships"
+        },
+        {
+            "source": "shy",
+            "target": "Entertainment"
+        },
+        {
+            "source": "shy",
+            "target": "Admiration"
+        },
+        {
+            "source": "shy",
+            "target": "Food and cooking"
+        },
+        {
+            "source": "shy",
+            "target": "Reunion"
+        },
+        {
+            "source": "shy",
+            "target": "Food"
+        },
+        {
+            "source": "shy",
+            "target": "Romantic flirting"
+        },
+        {
+            "source": "shy",
+            "target": "Cooking"
+        },
+        {
+            "source": "shy",
+            "target": "Change"
+        },
+        {
+            "source": "shy",
+            "target": "Marriage proposal"
+        },
+        {
+            "source": "shy",
+            "target": "Privacy"
+        },
+        {
+            "source": "shy",
+            "target": "Self-improvement"
+        },
+        {
+            "source": "shy",
+            "target": "Proposal"
+        },
+        {
+            "source": "shy",
+            "target": "Deception"
+        },
+        {
+            "source": "shy",
+            "target": "Curiosity"
+        },
+        {
+            "source": "shy",
+            "target": "Parenting"
+        },
+        {
+            "source": "shy",
+            "target": "Hydration"
+        },
+        {
+            "source": "Generosity",
+            "target": "sad"
+        },
+        {
+            "source": "Relationship issues",
+            "target": "sad"
+        },
+        {
+            "source": "Relationship issues",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Consumerism",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Cooking",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Cooking",
+            "target": "sad"
+        },
+        {
+            "source": "Friendship",
+            "target": "sad"
+        },
+        {
+            "source": "Friendship",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Compliments",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Fatherhood",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Admiration",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Time management",
+            "target": "sad"
+        },
+        {
+            "source": "Time management",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Food enjoyment",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Playfulness",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Identity confusion",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Peer pressure",
+            "target": "sad"
+        },
+        {
+            "source": "Gratitude",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Privacy",
+            "target": "sad"
+        },
+        {
+            "source": "Technical difficulties",
+            "target": "sarcastic"
+        },
+        {
+            "source": "Relationships",
+            "target": "sad"
+        },
+        {
+            "source": "Relationships",
+            "target": "sarcastic"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Urgency"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Encouragement"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Family dynamics"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Food cravings"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Cooking or Food Preparation"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Intoxication"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Humor"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Conflict"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Work-life balance"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Love and affection"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Nostalgia"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Fashion"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Parenting"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Marriage"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Exercise"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Food and cooking"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Embarrassment"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Infidelity"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Self-consciousness"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Reunion"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Rejection"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Dating"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Change"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Forgetfulness"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Gifts"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Food preferences"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Deception"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Family reunion"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Escape"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Breakup"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Food"
+        },
+        {
+            "source": "sarcastic",
+            "target": "Identity"
+        },
+        {
+            "source": "Nostalgia",
+            "target": "sad"
+        },
+        {
+            "source": "Deception",
+            "target": "sad"
+        },
+        {
+            "source": "Mealtime",
+            "target": "sad"
+        },
+        {
+            "source": "Humor",
+            "target": "sad"
+        },
+        {
+            "source": "Travel",
+            "target": "sad"
+        },
+        {
+            "source": "Encouragement",
+            "target": "sad"
+        },
+        {
+            "source": "Work-life balance",
+            "target": "sad"
+        },
+        {
+            "source": "Family reunion",
+            "target": "sad"
+        },
+        {
+            "source": "Rejection",
+            "target": "sad"
+        },
+        {
+            "source": "Forgetfulness",
+            "target": "sad"
+        },
+        {
+            "source": "Breakup",
+            "target": "sad"
+        },
+        {
+            "source": "Marriage proposal",
+            "target": "sad"
+        },
+        {
+            "source": "Reunion",
+            "target": "sad"
+        },
+        {
+            "source": "Cleaning",
+            "target": "sad"
+        },
+        {
+            "source": "Fashion",
+            "target": "sad"
+        },
+        {
+            "source": "Hunger",
+            "target": "sad"
+        },
+        {
+            "source": "Family dynamics",
+            "target": "sad"
+        },
+        {
+            "source": "sad",
+            "target": "Sibling rivalry"
+        },
+        {
+            "source": "sad",
+            "target": "Identity"
+        },
+        {
+            "source": "sad",
+            "target": "Conflict"
+        },
+        {
+            "source": "sad",
+            "target": "Misunderstanding"
+        },
+        {
+            "source": "sad",
+            "target": "Self-consciousness"
+        },
+        {
+            "source": "sad",
+            "target": "Food preferences"
+        },
+        {
+            "source": "sad",
+            "target": "Infidelity"
+        },
+        {
+            "source": "sad",
+            "target": "Freedom"
+        },
+        {
+            "source": "sad",
+            "target": "Urgency"
+        },
+        {
+            "source": "sad",
+            "target": "Food"
+        },
+        {
+            "source": "sad",
+            "target": "Financial difficulties"
+        },
+        {
+            "source": "sad",
+            "target": "Family relationships"
+        },
+        {
+            "source": "sad",
+            "target": "Long-distance relationship"
+        },
+        {
+            "source": "sad",
+            "target": "Apology"
+        },
+        {
+            "source": "sad",
+            "target": "Conflict or confrontation"
+        },
+        {
+            "source": "sad",
+            "target": "Exercise"
+        }
+    ],
+    "categories": [
+        {
+            "name": "happy"
+        },
+        {
+            "name": "sad"
+        },
+        {
+            "name": "shy"
+        },
+        {
+            "name": "surprised"
+        },
+        {
+            "name": "angry"
+        },
+        {
+            "name": "scared"
+        },
+        {
+            "name": "sarcastic"
+        },
+        {
+            "name": "disgusted"
+        }
+    ]
+}
